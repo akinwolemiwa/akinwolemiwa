@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about Flutter
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me email- akin.siyanbola@gmail.com <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/akinwolemiwa-siyanbola-40039b211/)">
+  <a href="[https://www.linkedin.com/in/akinwolemiwa-siyanbola-40039b211/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
