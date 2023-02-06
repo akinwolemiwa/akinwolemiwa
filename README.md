@@ -6,7 +6,7 @@
 
 
 <div align='center'> 
-  ![akinwolemiwa's github stats](https://github-readme-stats.vercel.app/api?username=akinwolemiwa) 
+  <a> ![akinwolemiwa's github stats](https://github-readme-stats.vercel.app/api?username=akinwolemiwa)  </a>
 </div>
 
 <div id="badges" align='center'>
