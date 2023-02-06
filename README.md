@@ -5,9 +5,11 @@
 - 📫 How to reach me email- akin.siyanbola@gmail.com
 
 
-![akinwolemiwa's github stats](https://github-readme-stats.vercel.app/api?username=akinwolemiwa)
+<div align='center'> 
+  ![akinwolemiwa's github stats](https://github-readme-stats.vercel.app/api?username=akinwolemiwa) 
+</div>
 
-<div id="badges">
+<div id="badges" align='center'>
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/akinwolemiwa-siyanbola-40039b211/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
