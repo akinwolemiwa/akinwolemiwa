@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me email- akin.siyanbola@gmail.com
 
+![akinwolemiwa's github stats](https://github-readme-stats.vercel.app/api?username=akinwolemiwa)
 
-<div align='center'> 
-  <a> ![akinwolemiwa's github stats](https://github-readme-stats.vercel.app/api?username=akinwolemiwa)  </a>
-</div>
 
 <div id="badges" align='center'>
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/akinwolemiwa-siyanbola-40039b211/)">
