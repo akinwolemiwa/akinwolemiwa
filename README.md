@@ -9,9 +9,6 @@
 </div>
 
 
- <! –– ![akinwolemiwa's github stats](https://github-readme-stats.vercel.app/api?username=akinwolemiwa) -->
-
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
